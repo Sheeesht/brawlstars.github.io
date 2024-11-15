@@ -1,1 +1,1 @@
-# brawlstart.github.io
+# brawlstars.github.io
